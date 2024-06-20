@@ -14,6 +14,10 @@ class ViewsController extends Controller
         return view('inicio');
     }
 
+    public function dashboard(){
+        return view('templates.crud');
+    }
+
     public function contactView(){
         return view('contact');
     }
