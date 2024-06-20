@@ -1,3 +1,3 @@
 <div>
-    <button type="button">Hola</button>
+    <button type="button">HolaChabots</button>
 </div>
